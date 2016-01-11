@@ -15,10 +15,10 @@ Also welcome for any useful advise to make atswift much better!
 
 ## keynotes
 
-在`keynotes`文件夹下目前收录了王巍，翁阳，包涵卿，周楷雯，李洁信和傅若愚这六位讲师的keynote，Greg的keynote会在稍后补上。 由于Chris的演讲形式是现场编程，因此Chris的演讲请参考源工程文件和即将推出的大会全程记录视频。
+在`keynotes`文件夹下目前收录了王巍，翁阳，包涵卿，周楷雯，李洁信，Greg和傅若愚这七位讲师的keynote。 由于Chris的演讲形式是现场编程，因此Chris的演讲请参考源工程文件和即将推出的大会全程记录视频。
 
 ## examples
 
 这个目录将用来收录所有的根据导师演讲内容而产生的playground或project，大家可以根据各位导师的演讲内容来同步的编写示例工程，提交PR来和大家一起分享。
 
-> Chris的源工程文件稍后也会添加在这个目录下。
+* `Chris_GamePlayground`：Chris现场编程的源工程文件。
