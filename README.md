@@ -1,6 +1,10 @@
 # atswift-2016-resources
 Resource files for atswift conference 2016, including keynote, pdf, source projects or playgrounds.
 
+[大会官网](http://atswift.io)
+
+[大会演讲视频](http://www.bilibili.com/video/av4212609/)
+
 这个仓库将会包含 2016中国Swift开发者大会的所有源文件，包括 讲师演讲用的keynote或pdf文件，讲师现场直播的工程文件，以及可能的根据讲师演讲的示例写成的playground文件。
 
 大家也可以在issues中提出各种技术问题，在此交流，我们的讲师将会持续关注。  
