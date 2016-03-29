@@ -1,4 +1,5 @@
 # atswift-2016-resources
+
 Resource files for atswift conference 2016, including keynote, pdf, source projects or playgrounds.
 
 [大会官网](http://atswift.io)
@@ -15,7 +16,6 @@ This repo will contain all the resource files for atswift conference 2016, inclu
 If you have some problems in Swift learning or with the content of keynotes, you can open a ticket and discuss with others, our mentors will keep an eye on them.
 
 Also welcome for any useful advise to make atswift much better! 
-
 
 ## keynotes
 
@@ -34,3 +34,16 @@ Also welcome for any useful advise to make atswift much better!
 这个目录将用来收录所有的根据导师演讲内容而产生的playground或project，大家可以根据各位导师的演讲内容来同步的编写示例工程，提交PR来和大家一起分享。
 
 * [`Chris_GamePlayground`](https://github.com/atConf/atswift-2016-resources/tree/master/examples/Chris_GamePlayground)：Chris现场编程的源工程文件。
+
+## 致谢
+
+大会视频字幕译者：
+
+- Chris Eidhof：[mmoaay](http://mmoaay.photo/)
+- 傅若愚：[靛青K](http://blog.dianqk.org/)
+- Greg Heo：[星夜暮晨](http://www.jianshu.com/users/ef1058d2d851)
+- 李洁信：[Prayer](http://www.futantan.com)
+- 王巍：[小锅](http://www.swiftyper.com)
+- 包涵卿：[CMB](https://github.com/chenmingbiao)
+- 翁阳：[saitjr](http://www.saitjr.com)
+- 周楷雯：[Cee](https://github.com/Cee)
